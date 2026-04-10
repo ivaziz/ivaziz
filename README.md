@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi 👋 I'm Mohammed Ashraf
 
 🎓 Computer Engineering Student at Mansoura University  
