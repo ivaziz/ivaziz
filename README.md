@@ -32,28 +32,3 @@
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
----
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=dark)
-
----
-
-## 🔥 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=dark)
-
----
-
-## 📈 GitHub Streak
-
-![GitHub streak](https://streak-stats.demolab.com/?user=USERNAME&theme=dark)
-
----
-
-## 🌍 Connect With Me
-
-- Kaggle: https://kaggle.com/YOURUSERNAME  
-- LinkedIn: https://linkedin.com/in/YOURUSERNAME  
-- GitHub: https://github.com/YOURUSERNAME
