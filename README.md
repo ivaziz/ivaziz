@@ -1,21 +1,24 @@
 ## Hi there 👋
 
-<!--
-**ivaziz/ivaziz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋 I'm Mohammed Ashraf
 
-Here are some ideas to get you started:
+🎓 Computer Engineering Student at Mansoura University  
+📊 Data Science & AI Enthusiast  
+🐍 Python Developer  
+📍 Egypt  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 📚 Currently learning **Data Science & Machine Learning**
+- 🧠 Interested in **AI & Data Analysis**
+- 💻 Working with **Python and Data Tools**
+- 📊 Building projects on **Kaggle**
+
+---
+
 ## Technologies 💻
-
 
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Spyder](https://img.shields.io/badge/Spyder-FF0000?style=for-the-badge&logo=spyder&logoColor=white)
@@ -26,4 +29,31 @@ Here are some ideas to get you started:
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=dark)
+
+---
+
+## 🔥 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=dark)
+
+---
+
+## 📈 GitHub Streak
+
+![GitHub streak](https://streak-stats.demolab.com/?user=USERNAME&theme=dark)
+
+---
+
+## 🌍 Connect With Me
+
+- Kaggle: https://kaggle.com/YOURUSERNAME  
+- LinkedIn: https://linkedin.com/in/YOURUSERNAME  
+- GitHub: https://github.com/YOURUSERNAME
